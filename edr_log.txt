@@ -1,0 +1,86 @@
+[2025-10-09 13:18:31] [DATASET LOAD ERROR] [Errno 2] No such file or directory: 'C:\\phishing_detector\\fa90a27c-daee-4fac-aab9-7db319de82a0.csv'
+[2025-10-09 13:18:31] Starting Phishing + EDR monitor...
+[2025-10-09 13:18:32] Suspicious process detected: UIEOrchestrator.exe (PID: 12616)
+[2025-10-09 13:18:32] Suspicious process detected: ArmouryCrate.DenoiseAI.exe (PID: 25140)
+[2025-10-09 13:18:46] Monitor stopped by user.
+[2025-10-09 13:23:59] [DATASET LOAD ERROR] [Errno 2] No such file or directory: 'C:\\phishing_detector\\fa90a27c-daee-4fac-aab9-7db319de82a0.csv'
+[2025-10-09 13:23:59] Starting improved Phishing + EDR monitor...
+[2025-10-09 13:23:59] [WARNING] phishing dataset appears empty. Verify DATASET_PATH.
+[2025-10-09 13:23:59] [EDR] Suspicious process: Code.exe (PID 436)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Discord.exe (PID 1672)
+Path: C:\Users\vasir\AppData\Local\Discord\app-1.0.9211\Discord.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Code.exe (PID 2536)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: FileCoAuth.exe (PID 3000)
+Path: C:\Users\vasir\AppData\Local\Microsoft\OneDrive\25.174.0907.0003\FileCoAuth.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: UIEOrchestrator.exe (PID 12616)
+Path: C:\Windows\System32\UIEOrchestrator.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Code.exe (PID 13012)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Discord.exe (PID 14888)
+Path: C:\Users\vasir\AppData\Local\Discord\app-1.0.9211\Discord.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Discord.exe (PID 15032)
+Path: C:\Users\vasir\AppData\Local\Discord\app-1.0.9211\Discord.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Code.exe (PID 15880)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Code.exe (PID 18380)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Code.exe (PID 20708)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Code.exe (PID 21100)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Code.exe (PID 21496)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Discord.exe (PID 22464)
+Path: C:\Users\vasir\AppData\Local\Discord\app-1.0.9211\Discord.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Discord.exe (PID 24664)
+Path: C:\Users\vasir\AppData\Local\Discord\app-1.0.9211\Discord.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: ArmouryCrate.DenoiseAI.exe (PID 25140)
+Path: C:\Program Files\ASUS\ARMOURY CRATE Service\DenoiseAIPlugin\ArmouryCrate.DenoiseAI.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: OneDrive.exe (PID 27860)
+Path: C:\Users\vasir\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Code.exe (PID 29388)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Code.exe (PID 30960)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Code.exe (PID 31808)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-09 13:23:59] [EDR] Suspicious process: Discord.exe (PID 32856)
+Path: C:\Users\vasir\AppData\Local\Discord\app-1.0.9211\Discord.exe
+[2025-10-09 13:24:22] [CLIPBOARD] New content: http://faceb00k-login.com
+[2025-10-09 13:24:24] [BACKEND REQUEST ERROR] HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EC7FED9010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+[2025-10-09 13:24:27] Monitor stopped by user.
+[2025-10-13 12:54:55] [DATASET LOAD ERROR] [Errno 2] No such file or directory: 'C:\\phishing_detector\\fa90a27c-daee-4fac-aab9-7db319de82a0.csv'
+[2025-10-13 12:54:55] Starting improved Phishing + EDR monitor...
+[2025-10-13 12:54:55] [WARNING] phishing dataset appears empty. Verify DATASET_PATH.
+[2025-10-13 12:54:55] [EDR] Suspicious process: FileCoAuth.exe (PID 956)
+Path: C:\Users\vasir\AppData\Local\Microsoft\OneDrive\25.174.0907.0003\FileCoAuth.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: Code.exe (PID 7744)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: OneDrive.exe (PID 11292)
+Path: C:\Users\vasir\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: Code.exe (PID 11460)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: Code.exe (PID 15224)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: Code.exe (PID 18336)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: Code.exe (PID 20272)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: Code.exe (PID 23812)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: ArmouryCrate.DenoiseAI.exe (PID 24044)
+Path: C:\Program Files\ASUS\ARMOURY CRATE Service\DenoiseAIPlugin\ArmouryCrate.DenoiseAI.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: Code.exe (PID 24504)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: Code.exe (PID 25256)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: Code.exe (PID 25528)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: Code.exe (PID 26156)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: OneDriveActionHelper.exe (PID 26964)
+Path: C:\Users\vasir\AppData\Local\Microsoft\OneDrive\25.174.0907.0003\OneDriveActionHelper.exe
+[2025-10-13 12:54:55] [EDR] Suspicious process: Code.exe (PID 27552)
+Path: C:\Users\vasir\AppData\Local\Programs\Microsoft VS Code\Code.exe

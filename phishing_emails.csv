@@ -1,0 +1,1517 @@
+email_text,url,label
+"Your account has been locked. Verify now to restore access.","http://fakebank-login.com",1
+"Monthly statement is ready. View it here.","https://secure.bankofamerica.com",0
+"Urgent! Unusual activity detected. Confirm your identity.","http://verify-update-secure.com",1
+"Here is the agenda for tomorrow’s meeting. Please review.","https://docs.google.com",0
+"Claim your iPhone now! Just click the link.","http://winfreeprize.net",1
+"Reminder: Timesheet submission deadline today.","https://internal.company.com",0
+"Someone tried to log in to your email account. Check activity.","http://security-alerts365.com",1
+"Thanks for your payment. Here is the receipt.","https://payments.stripe.com",0
+"Confirm your Amazon delivery now.","http://amaz0n-support-info.com",1
+"Team lunch scheduled next week. Please RSVP.","https://calendar.google.com",0
+"Update your Microsoft account information now.","http://microsoftsecure-update.com",1
+"Congratulations, you won a lottery! Click below.","http://lotto.claimfree.com",1
+"Invoice #1247 for your recent purchase is attached.","https://billing.amazon.com",0
+"Unusual login from a new device. Act immediately.","http://new-login-alert.com",1
+"Here's your Dropbox link to the shared folder.","https://dropbox.com/s/example123",0
+type,content,content_length,has_phishing_keywords,label
+text,project update,14,0,0
+text,urgent action required,22,1,1
+text,invoice due next week,21,0,0
+text,urgent action required,22,1,1
+text,click the link below,20,1,1
+text,win a prize,11,1,1
+text,confirm your identity,21,1,1
+text,reset your credentials,22,1,1
+text,reminder: doctor's appointment,30,0,0
+text,reminder: doctor's appointment,30,0,0
+text,monthly report attached,23,0,0
+text,family gathering this weekend,29,0,0
+text,project update,14,0,0
+text,update your password,20,1,1
+text,project update,14,0,0
+text,update your password,20,1,1
+text,click the link below,20,1,1
+text,confirm your identity,21,1,1
+text,check the attached notes,24,0,0
+text,click the link below,20,1,1
+text,click the link below,20,1,1
+text,thank you for your payment,26,0,0
+text,unauthorized login attempt,26,1,1
+text,reminder: doctor's appointment,30,0,0
+text,unauthorized login attempt,26,1,1
+text,security alert,14,1,1
+text,lunch tomorrow?,15,0,0
+text,unauthorized login attempt,26,1,1
+text,your package has been shipped,29,0,0
+text,security alert,14,1,1
+text,reset your credentials,22,1,1
+text,click the link below,20,1,1
+text,click the link below,20,1,1
+text,your account will be suspended,30,1,1
+text,update your password,20,1,1
+text,project update,14,0,0
+text,win a prize,11,1,1
+text,security alert,14,1,1
+text,urgent action required,22,1,1
+text,update your password,20,1,1
+text,urgent action required,22,1,1
+text,unauthorized login attempt,26,1,1
+text,click the link below,20,1,1
+text,thank you for your payment,26,0,0
+text,lunch tomorrow?,15,0,0
+text,verify your account,19,1,1
+text,check the attached notes,24,0,0
+text,project update,14,0,0
+text,meeting at 3 PM,15,0,0
+text,unauthorized login attempt,26,1,1
+text,project update,14,0,0
+text,reset your credentials,22,1,1
+text,your account will be suspended,30,1,1
+text,reminder: doctor's appointment,30,0,0
+text,monthly report attached,23,0,0
+text,unauthorized login attempt,26,1,1
+text,click the link below,20,1,1
+text,update your password,20,1,1
+text,your package has been shipped,29,0,0
+text,security alert,14,1,1
+text,verify your account,19,1,1
+text,unauthorized login attempt,26,1,1
+text,check the attached notes,24,0,0
+text,lunch tomorrow?,15,0,0
+text,security alert,14,1,1
+text,confirm your identity,21,1,1
+text,project update,14,0,0
+text,reset your credentials,22,1,1
+text,your package has been shipped,29,0,0
+text,monthly report attached,23,0,0
+text,your account will be suspended,30,1,1
+text,family gathering this weekend,29,0,0
+text,update your password,20,1,1
+text,project update,14,0,0
+text,project update,14,0,0
+text,security alert,14,1,1
+text,thank you for your payment,26,0,0
+text,confirm your identity,21,1,1
+text,meeting at 3 PM,15,0,0
+text,confirm your identity,21,1,1
+text,monthly report attached,23,0,0
+text,unauthorized login attempt,26,1,1
+text,lunch tomorrow?,15,0,0
+text,lunch tomorrow?,15,0,0
+text,your account will be suspended,30,1,1
+text,unauthorized login attempt,26,1,1
+text,monthly report attached,23,0,0
+text,meeting at 3 PM,15,0,0
+text,reminder: doctor's appointment,30,0,0
+text,thank you for your payment,26,0,0
+text,unauthorized login attempt,26,1,1
+text,urgent action required,22,1,1
+text,monthly report attached,23,0,0
+text,project update,14,0,0
+text,security alert,14,1,1
+text,your account will be suspended,30,1,1
+text,project update,14,0,0
+text,invoice due next week,21,0,0
+text,security alert,14,1,1
+text,lunch tomorrow?,15,0,0
+text,thank you for your payment,26,0,0
+text,thank you for your payment,26,0,0
+text,update your password,20,1,1
+text,unauthorized login attempt,26,1,1
+text,family gathering this weekend,29,0,0
+text,reminder: doctor's appointment,30,0,0
+text,project update,14,0,0
+text,lunch tomorrow?,15,0,0
+text,check the attached notes,24,0,0
+text,invoice due next week,21,0,0
+text,verify your account,19,1,1
+text,project update,14,0,0
+text,urgent action required,22,1,1
+text,check the attached notes,24,0,0
+text,invoice due next week,21,0,0
+text,meeting at 3 PM,15,0,0
+text,project update,14,0,0
+text,invoice due next week,21,0,0
+text,urgent action required,22,1,1
+text,confirm your identity,21,1,1
+text,reminder: doctor's appointment,30,0,0
+text,your package has been shipped,29,0,0
+text,click the link below,20,1,1
+text,update your password,20,1,1
+text,thank you for your payment,26,0,0
+text,invoice due next week,21,0,0
+text,click the link below,20,1,1
+text,urgent action required,22,1,1
+text,project update,14,0,0
+text,unauthorized login attempt,26,1,1
+text,urgent action required,22,1,1
+text,invoice due next week,21,0,0
+text,reminder: doctor's appointment,30,0,0
+text,meeting at 3 PM,15,0,0
+text,meeting at 3 PM,15,0,0
+text,click the link below,20,1,1
+text,thank you for your payment,26,0,0
+text,security alert,14,1,1
+text,unauthorized login attempt,26,1,1
+text,invoice due next week,21,0,0
+text,security alert,14,1,1
+text,security alert,14,1,1
+text,reminder: doctor's appointment,30,0,0
+text,family gathering this weekend,29,0,0
+text,monthly report attached,23,0,0
+text,confirm your identity,21,1,1
+text,update your password,20,1,1
+text,unauthorized login attempt,26,1,1
+text,check the attached notes,24,0,0
+text,project update,14,0,0
+text,monthly report attached,23,0,0
+text,reminder: doctor's appointment,30,0,0
+text,unauthorized login attempt,26,1,1
+text,confirm your identity,21,1,1
+text,your account will be suspended,30,1,1
+text,your package has been shipped,29,0,0
+text,thank you for your payment,26,0,0
+text,reset your credentials,22,1,1
+text,verify your account,19,1,1
+text,update your password,20,1,1
+text,your account will be suspended,30,1,1
+text,invoice due next week,21,0,0
+text,monthly report attached,23,0,0
+text,check the attached notes,24,0,0
+text,your package has been shipped,29,0,0
+text,confirm your identity,21,1,1
+text,thank you for your payment,26,0,0
+text,your account will be suspended,30,1,1
+text,family gathering this weekend,29,0,0
+text,win a prize,11,1,1
+text,reset your credentials,22,1,1
+text,thank you for your payment,26,0,0
+text,meeting at 3 PM,15,0,0
+text,your package has been shipped,29,0,0
+text,update your password,20,1,1
+text,thank you for your payment,26,0,0
+text,thank you for your payment,26,0,0
+text,your account will be suspended,30,1,1
+text,your account will be suspended,30,1,1
+text,check the attached notes,24,0,0
+text,monthly report attached,23,0,0
+text,monthly report attached,23,0,0
+text,confirm your identity,21,1,1
+text,check the attached notes,24,0,0
+text,update your password,20,1,1
+text,your account will be suspended,30,1,1
+text,project update,14,0,0
+text,project update,14,0,0
+text,family gathering this weekend,29,0,0
+text,unauthorized login attempt,26,1,1
+text,verify your account,19,1,1
+text,invoice due next week,21,0,0
+text,confirm your identity,21,1,1
+text,monthly report attached,23,0,0
+text,reset your credentials,22,1,1
+text,reset your credentials,22,1,1
+text,click the link below,20,1,1
+text,thank you for your payment,26,0,0
+text,your account will be suspended,30,1,1
+text,meeting at 3 PM,15,0,0
+text,reset your credentials,22,1,1
+text,your package has been shipped,29,0,0
+text,reset your credentials,22,1,1
+text,confirm your identity,21,1,1
+text,monthly report attached,23,0,0
+text,click the link below,20,1,1
+text,click the link below,20,1,1
+text,your package has been shipped,29,0,0
+text,your package has been shipped,29,0,0
+text,verify your account,19,1,1
+text,win a prize,11,1,1
+text,family gathering this weekend,29,0,0
+text,project update,14,0,0
+text,check the attached notes,24,0,0
+text,reset your credentials,22,1,1
+text,unauthorized login attempt,26,1,1
+text,urgent action required,22,1,1
+text,check the attached notes,24,0,0
+text,invoice due next week,21,0,0
+text,reset your credentials,22,1,1
+text,check the attached notes,24,0,0
+text,family gathering this weekend,29,0,0
+text,unauthorized login attempt,26,1,1
+text,reset your credentials,22,1,1
+text,monthly report attached,23,0,0
+text,project update,14,0,0
+text,your package has been shipped,29,0,0
+text,reset your credentials,22,1,1
+text,urgent action required,22,1,1
+text,security alert,14,1,1
+text,monthly report attached,23,0,0
+text,meeting at 3 PM,15,0,0
+text,meeting at 3 PM,15,0,0
+text,reset your credentials,22,1,1
+text,click the link below,20,1,1
+text,reset your credentials,22,1,1
+text,reset your credentials,22,1,1
+text,family gathering this weekend,29,0,0
+text,verify your account,19,1,1
+text,confirm your identity,21,1,1
+text,lunch tomorrow?,15,0,0
+text,project update,14,0,0
+text,click the link below,20,1,1
+text,project update,14,0,0
+text,win a prize,11,1,1
+text,confirm your identity,21,1,1
+text,meeting at 3 PM,15,0,0
+text,your account will be suspended,30,1,1
+text,check the attached notes,24,0,0
+text,reset your credentials,22,1,1
+text,project update,14,0,0
+text,update your password,20,1,1
+text,your package has been shipped,29,0,0
+text,your account will be suspended,30,1,1
+text,urgent action required,22,1,1
+text,confirm your identity,21,1,1
+text,monthly report attached,23,0,0
+text,thank you for your payment,26,0,0
+text,lunch tomorrow?,15,0,0
+text,verify your account,19,1,1
+text,check the attached notes,24,0,0
+text,check the attached notes,24,0,0
+text,your package has been shipped,29,0,0
+text,meeting at 3 PM,15,0,0
+text,reminder: doctor's appointment,30,0,0
+text,check the attached notes,24,0,0
+text,project update,14,0,0
+text,thank you for your payment,26,0,0
+text,click the link below,20,1,1
+text,invoice due next week,21,0,0
+text,reset your credentials,22,1,1
+text,meeting at 3 PM,15,0,0
+text,check the attached notes,24,0,0
+text,reset your credentials,22,1,1
+text,your package has been shipped,29,0,0
+text,security alert,14,1,1
+text,your account will be suspended,30,1,1
+text,confirm your identity,21,1,1
+text,project update,14,0,0
+text,project update,14,0,0
+text,reminder: doctor's appointment,30,0,0
+text,thank you for your payment,26,0,0
+text,click the link below,20,1,1
+text,monthly report attached,23,0,0
+text,your package has been shipped,29,0,0
+text,thank you for your payment,26,0,0
+text,check the attached notes,24,0,0
+text,thank you for your payment,26,0,0
+text,security alert,14,1,1
+text,monthly report attached,23,0,0
+text,win a prize,11,1,1
+text,meeting at 3 PM,15,0,0
+text,verify your account,19,1,1
+text,family gathering this weekend,29,0,0
+text,thank you for your payment,26,0,0
+text,invoice due next week,21,0,0
+text,update your password,20,1,1
+text,check the attached notes,24,0,0
+text,lunch tomorrow?,15,0,0
+text,confirm your identity,21,1,1
+text,verify your account,19,1,1
+text,security alert,14,1,1
+text,verify your account,19,1,1
+text,reminder: doctor's appointment,30,0,0
+text,family gathering this weekend,29,0,0
+text,meeting at 3 PM,15,0,0
+text,lunch tomorrow?,15,0,0
+text,verify your account,19,1,1
+text,urgent action required,22,1,1
+text,click the link below,20,1,1
+text,thank you for your payment,26,0,0
+text,your account will be suspended,30,1,1
+text,your account will be suspended,30,1,1
+text,monthly report attached,23,0,0
+text,unauthorized login attempt,26,1,1
+text,family gathering this weekend,29,0,0
+text,click the link below,20,1,1
+text,invoice due next week,21,0,0
+text,update your password,20,1,1
+text,lunch tomorrow?,15,0,0
+text,your package has been shipped,29,0,0
+text,reminder: doctor's appointment,30,0,0
+text,project update,14,0,0
+text,lunch tomorrow?,15,0,0
+text,check the attached notes,24,0,0
+text,thank you for your payment,26,0,0
+text,security alert,14,1,1
+text,update your password,20,1,1
+text,your account will be suspended,30,1,1
+text,click the link below,20,1,1
+text,thank you for your payment,26,0,0
+text,update your password,20,1,1
+text,check the attached notes,24,0,0
+text,win a prize,11,1,1
+text,security alert,14,1,1
+text,your account will be suspended,30,1,1
+text,lunch tomorrow?,15,0,0
+text,lunch tomorrow?,15,0,0
+text,your package has been shipped,29,0,0
+text,confirm your identity,21,1,1
+text,lunch tomorrow?,15,0,0
+text,update your password,20,1,1
+text,meeting at 3 PM,15,0,0
+text,family gathering this weekend,29,0,0
+text,verify your account,19,1,1
+text,family gathering this weekend,29,0,0
+text,update your password,20,1,1
+text,your account will be suspended,30,1,1
+text,family gathering this weekend,29,0,0
+text,thank you for your payment,26,0,0
+text,check the attached notes,24,0,0
+text,thank you for your payment,26,0,0
+text,update your password,20,1,1
+text,reset your credentials,22,1,1
+text,win a prize,11,1,1
+text,invoice due next week,21,0,0
+text,update your password,20,1,1
+text,check the attached notes,24,0,0
+text,security alert,14,1,1
+text,meeting at 3 PM,15,0,0
+text,update your password,20,1,1
+text,reminder: doctor's appointment,30,0,0
+text,meeting at 3 PM,15,0,0
+text,confirm your identity,21,1,1
+text,reminder: doctor's appointment,30,0,0
+text,lunch tomorrow?,15,0,0
+text,security alert,14,1,1
+text,update your password,20,1,1
+text,project update,14,0,0
+text,update your password,20,1,1
+text,unauthorized login attempt,26,1,1
+text,confirm your identity,21,1,1
+text,family gathering this weekend,29,0,0
+text,family gathering this weekend,29,0,0
+text,unauthorized login attempt,26,1,1
+text,meeting at 3 PM,15,0,0
+text,your account will be suspended,30,1,1
+text,update your password,20,1,1
+text,your account will be suspended,30,1,1
+text,click the link below,20,1,1
+text,your account will be suspended,30,1,1
+text,lunch tomorrow?,15,0,0
+text,your account will be suspended,30,1,1
+text,update your password,20,1,1
+text,your account will be suspended,30,1,1
+text,check the attached notes,24,0,0
+text,check the attached notes,24,0,0
+text,security alert,14,1,1
+text,unauthorized login attempt,26,1,1
+text,reset your credentials,22,1,1
+text,thank you for your payment,26,0,0
+text,thank you for your payment,26,0,0
+text,confirm your identity,21,1,1
+text,update your password,20,1,1
+text,lunch tomorrow?,15,0,0
+text,check the attached notes,24,0,0
+text,verify your account,19,1,1
+text,reminder: doctor's appointment,30,0,0
+text,win a prize,11,1,1
+text,lunch tomorrow?,15,0,0
+text,update your password,20,1,1
+text,thank you for your payment,26,0,0
+text,urgent action required,22,1,1
+text,thank you for your payment,26,0,0
+text,your package has been shipped,29,0,0
+text,click the link below,20,1,1
+text,security alert,14,1,1
+text,project update,14,0,0
+text,your account will be suspended,30,1,1
+text,reminder: doctor's appointment,30,0,0
+text,meeting at 3 PM,15,0,0
+text,project update,14,0,0
+text,urgent action required,22,1,1
+text,your account will be suspended,30,1,1
+text,thank you for your payment,26,0,0
+text,monthly report attached,23,0,0
+text,check the attached notes,24,0,0
+text,family gathering this weekend,29,0,0
+text,invoice due next week,21,0,0
+text,click the link below,20,1,1
+text,win a prize,11,1,1
+text,thank you for your payment,26,0,0
+text,reminder: doctor's appointment,30,0,0
+text,your package has been shipped,29,0,0
+text,unauthorized login attempt,26,1,1
+text,win a prize,11,1,1
+text,win a prize,11,1,1
+text,your package has been shipped,29,0,0
+text,monthly report attached,23,0,0
+text,reminder: doctor's appointment,30,0,0
+text,meeting at 3 PM,15,0,0
+text,security alert,14,1,1
+text,urgent action required,22,1,1
+text,verify your account,19,1,1
+text,meeting at 3 PM,15,0,0
+text,win a prize,11,1,1
+text,urgent action required,22,1,1
+text,your account will be suspended,30,1,1
+text,lunch tomorrow?,15,0,0
+text,meeting at 3 PM,15,0,0
+text,thank you for your payment,26,0,0
+text,thank you for your payment,26,0,0
+text,monthly report attached,23,0,0
+text,win a prize,11,1,1
+text,confirm your identity,21,1,1
+text,reset your credentials,22,1,1
+text,click the link below,20,1,1
+text,update your password,20,1,1
+text,confirm your identity,21,1,1
+text,win a prize,11,1,1
+text,unauthorized login attempt,26,1,1
+text,your package has been shipped,29,0,0
+text,security alert,14,1,1
+text,lunch tomorrow?,15,0,0
+text,confirm your identity,21,1,1
+text,win a prize,11,1,1
+text,reset your credentials,22,1,1
+text,check the attached notes,24,0,0
+text,check the attached notes,24,0,0
+text,lunch tomorrow?,15,0,0
+text,win a prize,11,1,1
+text,your package has been shipped,29,0,0
+text,check the attached notes,24,0,0
+text,urgent action required,22,1,1
+text,your package has been shipped,29,0,0
+text,win a prize,11,1,1
+text,click the link below,20,1,1
+text,family gathering this weekend,29,0,0
+text,monthly report attached,23,0,0
+text,win a prize,11,1,1
+text,your package has been shipped,29,0,0
+text,update your password,20,1,1
+text,invoice due next week,21,0,0
+text,check the attached notes,24,0,0
+text,reset your credentials,22,1,1
+text,click the link below,20,1,1
+text,meeting at 3 PM,15,0,0
+text,lunch tomorrow?,15,0,0
+text,invoice due next week,21,0,0
+text,security alert,14,1,1
+text,security alert,14,1,1
+text,click the link below,20,1,1
+text,invoice due next week,21,0,0
+text,thank you for your payment,26,0,0
+text,urgent action required,22,1,1
+text,invoice due next week,21,0,0
+text,urgent action required,22,1,1
+text,verify your account,19,1,1
+text,lunch tomorrow?,15,0,0
+text,confirm your identity,21,1,1
+text,your account will be suspended,30,1,1
+text,security alert,14,1,1
+text,update your password,20,1,1
+text,family gathering this weekend,29,0,0
+text,reset your credentials,22,1,1
+text,confirm your identity,21,1,1
+text,security alert,14,1,1
+text,reset your credentials,22,1,1
+text,project update,14,0,0
+text,verify your account,19,1,1
+url,https://google-login.info/w~knf.,32,1,0
+url,http://bank-login.net/jynwvhgn31hzccp,37,1,0
+url,http://login-login.co/7.ro48587la,33,1,1
+url,http://secure.info/-ssk2osl,27,1,1
+url,http://paypal.co/ycjkj32l7,26,0,0
+url,http://apple-secure.info/h65-jp,31,1,0
+url,http://paypal-update.info/2v~iu7g,33,1,0
+url,http://verify-login.net/2zm2sey-cpg0mt,38,1,0
+url,https://secure.com/atg-5h7fseg,30,1,1
+url,https://secure-login.net/kfzyjkie,33,1,1
+url,https://google.org/mb0wdwqyw9,29,0,1
+url,https://secure-login.org/y9cou-68bbnei,38,1,0
+url,http://paypal.com/1wztp4d3o33j,30,0,1
+url,https://login.info/ri6n1g,25,1,1
+url,https://apple.co/9wy3wl2fm,26,0,0
+url,http://google-secure.com/_xqpyp_j_8.s92,39,1,0
+url,http://amazon-secure.org/-4r~7nvxl,34,1,1
+url,https://google-secure.org/2b_-hzp,33,1,1
+url,https://paypal-secure.info/4itit,32,1,1
+url,http://amazon.info/ft1l_t,25,0,1
+url,http://amazon-login.com/gfb-kqvren0fv,37,1,0
+url,https://paypal-login.org/a8u86-seybdq,37,1,1
+url,https://paypal-secure.info/_u_r81rup~t46qt,42,1,1
+url,https://bank-update.net/_g3mk,29,1,1
+url,http://verify-auth.net/lu1bs,28,1,0
+url,https://secure.org/7-0jg2,25,1,0
+url,https://google-update.co/pv_fv,30,1,0
+url,http://apple-auth.org/cqtkc9a~nj3v,34,0,0
+url,http://apple.com/d3~_b9njgffp,29,0,1
+url,https://secure-update.com/25etukqxg_,36,1,1
+url,https://paypal-update.info/ae-.xci62c3.d~z,42,1,1
+url,https://amazon-login.co/av5fkrp-mav_y,37,1,0
+url,https://amazon.org/q-1c3cp-mi~~b,32,0,0
+url,https://secure-update.co/w2.gvqfbr,34,1,0
+url,https://secure-update.net/lmxzfy,32,1,0
+url,http://verify-update.org/ewrcijgy,33,1,0
+url,https://amazon.info/jgb7..,26,0,1
+url,http://secure-auth.com/6ubp25cun2-sun,37,1,1
+url,https://google.com/joeh2ic9hwx.y,32,0,0
+url,https://secure.co/iqs43he,25,1,0
+url,http://paypal.net/snopquu5y~g,29,0,0
+url,https://verify.net/nblz3l70c4e,30,1,0
+url,http://secure.com/q~lj-yr.,26,1,0
+url,http://apple.com/vzt9u019cxj,28,0,0
+url,http://apple.info/xymw5p78i,27,0,1
+url,http://apple.org/01rxos6a-75,28,0,0
+url,https://apple.info/a0gj_cjopnu7r7,33,0,1
+url,https://login-login.info/u7~c-thukkyn,37,1,1
+url,https://apple.co/2s3pxwe3n0vy,29,0,1
+url,https://bank-update.info/6qeu--hq5l5,36,1,0
+url,https://login.com/6t-5ald.i33jrb,32,1,0
+url,https://amazon.org/15cgonq,26,0,1
+url,http://amazon-auth.org/0ogex0vgu,32,0,1
+url,https://google.info/upni.,25,0,1
+url,http://secure.org/i-eh8qqu0gki,30,1,1
+url,https://login.com/f6gx3_,24,1,0
+url,https://paypal-secure.org/ayhua4nti,35,1,1
+url,https://login.org/c8.oplwqaw5yg-,32,1,1
+url,https://paypal-update.com/qnp~n3m,33,1,0
+url,https://google.co/m_-weflqklh~70,32,0,0
+url,http://paypal.co/c8h764,23,0,0
+url,http://google.co/tnyuo010h_0t,29,0,0
+url,https://login-update.net/4ah7b7,31,1,1
+url,http://paypal-update.org/1-xu0,30,1,0
+url,https://bank.info/v32r4o,24,0,0
+url,http://login.net/096xejeed,26,1,1
+url,http://login-login.org/v5~k6x5u~1g0.9j,38,1,0
+url,http://bank.com/xn2.tf.z7,25,0,0
+url,https://amazon.org/ipfw9,24,0,1
+url,https://google.co/yhv1~2fmwl,28,0,0
+url,http://secure.com/76e~m.zm~q,28,1,0
+url,https://secure-login.net/9-hbvsdttv1-,37,1,1
+url,http://verify-update.info/_57vmh_0,34,1,1
+url,http://paypal-update.co/f33~_,29,1,1
+url,https://paypal.info/b2zonr73wg,30,0,1
+url,https://paypal-secure.co/smk8yeo4m,34,1,0
+url,http://login-login.org/iqggk0mgu-r6614,38,1,1
+url,http://verify-auth.info/nytjg.s~5bn,35,1,0
+url,https://paypal.co/kkkbvi._aptx,30,0,0
+url,https://paypal.co/ki1.aa2yqtyhil,32,0,1
+url,https://paypal-auth.com/s0df4j,30,0,1
+url,http://secure.info/efotusgv.g4r,31,1,0
+url,https://login-secure.org/5_aie5.lti,35,1,0
+url,https://login-secure.info/fv4f~_c,33,1,1
+url,http://bank-login.co/cz.tw0jnu,30,1,1
+url,https://bank-secure.com/8q9272ghu7pfy,37,1,1
+url,http://paypal-update.net/g_aie7.gly4ua-,39,1,0
+url,http://bank-update.com/u~snys0uv_n9,35,1,0
+url,https://verify.net/44z2p,24,1,0
+url,https://secure.org/6ckd.x.o,27,1,0
+url,https://google.co/x09rac2bg-a,29,0,0
+url,https://verify.net/4h2_b~~ko4l.j,32,1,0
+url,https://amazon.info/fbs3rieya5.yd55,35,0,1
+url,http://paypal.net/t858am5w,26,0,1
+url,http://login-update.info/tiuey,30,1,0
+url,http://google-secure.net/qwh4h2a95,34,1,0
+url,http://secure.com/51n-44t,25,1,1
+url,https://amazon.com/stwmb67g1,28,0,0
+url,https://bank.com/t3phcdnlx,26,0,0
+url,http://secure-auth.info/30f6wr~,31,1,1
+url,https://secure-secure.com/jhlsd,31,1,1
+url,http://secure-auth.com/.3.4dvizsu990uk,38,1,0
+url,http://google-login.co/grw0-ce,30,1,1
+url,http://google-update.org/vfc3w7161id_,37,1,1
+url,https://secure-auth.org/w7xyv~ap0g6,35,1,0
+url,https://verify.co/rrques_.49ms,30,1,0
+url,http://login.info/o0_mcyq,25,1,0
+url,http://google.info/bv1_0moihc~3g,32,0,0
+url,http://bank.net/3v~f50b,23,0,1
+url,https://google-update.info/dreiyjh0,35,1,1
+url,https://login-update.info/9qn_s,31,1,1
+url,http://verify-secure.org/69ntxmsd,33,1,1
+url,https://apple-login.info/o.vpi456csugoz,39,1,0
+url,https://bank-auth.com/bjan5zop-g99bsu,37,0,1
+url,https://verify.org/0j30xwp~p.0brkq,34,1,0
+url,http://verify-login.info/.is9.u,31,1,0
+url,http://apple.net/-m3xgn1s3rxy9,30,0,0
+url,http://secure-update.com/g4j~e~.x2,36,1,1
+url,https://amazon.com/dyd2pa~lapy56~f,34,0,0
+url,http://amazon.info/4i2.e_f4m,28,0,1
+url,https://verify-login.co/gr2~2y,30,1,0
+url,https://secure.com/wxebotl-,27,1,1
+url,http://google.info/v8h2~6xjtvxg,31,0,0
+url,http://paypal-secure.com/-6z65d-a6,34,1,0
+url,https://verify.info/.kwlcr0ucceneru,35,1,0
+url,http://secure-auth.com/3eh5w-r4fx,33,1,0
+url,http://bank.com/exwo7p4is,25,0,1
+url,https://apple-update.net/cq_8ahsykbn466,39,1,1
+url,http://secure.co/f2j8j,22,1,0
+url,http://google.info/9ikc6y89lv9kx,32,0,1
+url,http://amazon-login.info/yh362sm,32,1,1
+url,http://google.info/p3c3ccf0z.5,30,0,0
+url,http://apple.net/-anbd8,23,0,1
+url,http://bank-login.info/u~2pkal7jb98ij,37,1,0
+url,http://google.org/q0osc,23,0,1
+url,https://login.org/4z03f,23,1,1
+url,https://paypal.net/-1frhjr,26,0,1
+url,http://apple.org/zvfff7x.v90n8r,31,0,0
+url,http://apple-secure.com/_g14msz-0tk,35,1,1
+url,https://secure.net/fu1_q,24,1,0
+url,https://google.co/4osv7o.-w9p4,30,0,1
+url,https://paypal.info/v.8pyil6v.z92t,34,0,0
+url,http://bank-update.co/..ab1oq9iyy,33,1,0
+url,http://secure.com/suz7ubqb5k_govr,33,1,0
+url,https://google-login.org/pqhtzenlx_,35,1,0
+url,http://paypal.com/nnbul69usalq,30,0,0
+url,http://login-login.org/9n4n4aakfq5xoc,37,1,0
+url,http://google-auth.com/el8iryj9eygpv,36,0,1
+url,http://apple-update.co/uc~fookg3.f,34,1,0
+url,https://google.org/p-gjm6w,26,0,0
+url,http://bank.org/-6cv907awcwb93w,31,0,1
+url,http://verify.co/e3~7c,22,1,0
+url,https://login-auth.info/o.lv4f,30,1,0
+url,https://verify-auth.info/uhzc~_9e.,34,1,1
+url,https://bank-login.co/~_53hh,28,1,1
+url,https://secure.info/vdx8_j8.xn16_tv,35,1,1
+url,https://secure.co/296qm~nn0,27,1,0
+url,http://amazon.net/r3d4tvpp5yh,29,0,1
+url,https://bank.com/_os~50g5,25,0,0
+url,http://secure.co/7sl1b3rqvg8k,29,1,1
+url,http://login-update.org/_6gzhxh2~5byw3u,39,1,0
+url,http://secure-secure.co/wzkxlijlcj,34,1,0
+url,http://paypal.com/toovxo,24,0,1
+url,https://login-auth.info/b973k386o~a81nh,39,1,0
+url,https://bank.org/~pnh3od-y7zh4,30,0,0
+url,http://bank-login.net/ch1l0veq569fin,36,1,1
+url,https://apple.net/b4.d-8k3~--mbsl,33,0,0
+url,http://login.net/w~1btyx-o9o2y,30,1,0
+url,http://bank.co/4h50jsxz2,24,0,1
+url,https://amazon-update.com/bvkij,31,1,1
+url,http://bank.net/vwwchps,23,0,0
+url,https://amazon.com/no9ufr~,26,0,1
+url,http://bank.com/_vq_8scbdqgck6,30,0,1
+url,https://paypal-login.co/gzl8o,29,1,1
+url,http://verify.com/e00.twn,25,1,0
+url,http://verify-secure.net/~khw1h_,32,1,1
+url,https://login.info/b-oov85p2gx4g,32,1,0
+url,https://login.com/73rgyjn52~_j,30,1,1
+url,http://bank-auth.co/z4qp0yn-_ivatl-,35,0,1
+url,http://verify-update.com/tpd0wa6l8-7-m,38,1,0
+url,https://apple.com/3x4hoe267_w,29,0,0
+url,https://login.com/skolsch5-,27,1,1
+url,http://bank-update.org/~cra7znh,31,1,0
+url,https://login.net/-nsgsamn-da.p,31,1,0
+url,http://bank.co/0pzom206,23,0,0
+url,https://paypal.info/a3.ijg,26,0,0
+url,https://bank-secure.net/2g.x.ty41w1q3,37,1,1
+url,https://paypal-secure.co/f48wy,30,1,0
+url,http://login.co/wu3gjhz3m,25,1,0
+url,http://login-secure.net/o_f_xbyfd4c9mh,38,1,0
+url,https://apple-secure.com/dj4zqt.xvdj8,37,1,0
+url,https://google-secure.info/h2.-a,32,1,0
+url,http://paypal.co/w0msj2dvku4p~,30,0,1
+url,https://amazon-login.com/-mynbvba6yv4,37,1,0
+url,http://secure.net/bfpppa0hkatfze,32,1,1
+url,http://bank.com/5y.oz6fuvuy2b89,31,0,1
+url,http://bank.com/-0_4qmj6bk,26,0,1
+url,http://login.info/8ieg7ep7tntxhrb,33,1,0
+url,https://secure.org/u3z~-,24,1,0
+url,https://verify-login.com/vowdapa25_cw,37,1,0
+url,http://bank-update.net/o0bxx--le,32,1,1
+url,http://verify-secure.com/h87okwlbal_8deq,40,1,0
+url,http://amazon-update.co/pfp8u1zxt1-uo,37,1,1
+url,https://verify.net/-81mo-74653,30,1,1
+url,https://bank-auth.org/qam8toh1z,31,0,0
+url,http://google-update.org/pu53~x_eydb,36,1,0
+url,https://amazon.com/.3nr7ns8rkug0d3,34,0,0
+url,http://verify-update.net/e4b6wi.lcd0,36,1,1
+url,https://google.com/59_dysmb4,28,0,1
+url,https://bank-auth.co/aags3eq~uttsq1s,36,0,1
+url,http://apple-login.org/0jt5iqkfo15c,35,1,0
+url,https://paypal-auth.com/dom32ptxy~m77z-,39,0,1
+url,http://secure-secure.co/ao5eg0,30,1,1
+url,http://verify.org/0leap8.y,26,1,1
+url,http://amazon-update.co/kxvo069,31,1,1
+url,http://bank.net/bmool6u3k4,26,0,1
+url,http://verify-secure.org/ilmom..sif,35,1,1
+url,http://verify.net/sndqa8qij62gc5r,33,1,0
+url,https://secure-update.info/rmkjk4d3hn-fyj,41,1,0
+url,http://verify-auth.info/8n0wk,29,1,0
+url,http://paypal-login.co/8ag1dsv,30,1,0
+url,http://bank-auth.net/kfcj7hjf90-ka,34,0,0
+url,https://bank.info/3shte,23,0,1
+url,http://login-auth.co/2rxjoy,27,1,0
+url,http://verify-login.org/f78zmw2,31,1,1
+url,https://secure-secure.co/1k9evs.o,33,1,0
+url,http://verify.co/k7d--x7f,25,1,0
+url,http://paypal-login.com/1~.e8~t.ht,34,1,1
+url,http://apple-secure.com/0t9vwmnf,32,1,1
+url,http://secure.org/uh324v1p55jqo,31,1,0
+url,http://apple.org/3z33wr~lp,26,0,1
+url,http://secure-update.info/grq747,32,1,0
+url,https://paypal-update.info/q5u-bpgs,35,1,1
+url,http://secure-update.info/6_d4ee8l.kqua,39,1,1
+url,http://bank.com/19drv7,22,0,0
+url,https://bank-update.net/jo3x9aq1j,33,1,0
+url,https://bank.com/p3hmd0,23,0,0
+url,https://bank-secure.com/1osgstbc3iou,36,1,0
+url,http://amazon-login.net/iyxcano8,32,1,1
+url,http://secure-update.com/4k3y07o,32,1,1
+url,https://google.org/mp2x5u09.u,29,0,0
+url,http://google-update.net/b56mynrhjsye3sk,40,1,1
+url,http://google.org/92_3b-h.9-,28,0,1
+url,http://paypal.info/n_zcrsqp8qqiva,33,0,1
+url,http://apple.info/ldk359,24,0,0
+url,https://amazon.info/inn89b9q6ufpm,33,0,0
+url,http://paypal-auth.co/rpf.aeh-gekw,34,0,1
+url,http://apple.org/24ajj2-kx,26,0,0
+url,https://paypal.com/q3.07abj,27,0,1
+url,https://apple.net/moqjcz,24,0,1
+url,https://amazon-login.com/z31i8gvd_cufpgj,40,1,0
+url,http://amazon.net/83sz_rp28h,28,0,1
+url,http://verify.org/3q38u2z5w_-gxdj,33,1,0
+url,https://login.net/zt1s~nwiv0b01,31,1,0
+url,https://apple.co/lqdw.mumqghn9,30,0,1
+url,https://amazon-update.com/l2l9z,31,1,1
+url,http://paypal-auth.org/3bmus6zb1q3t-l,37,0,0
+url,https://apple.com/vmmectu48qa,29,0,1
+url,https://google.co/q5vrg1s,25,0,0
+url,http://apple-update.co/v8-qwj09s7rze,36,1,0
+url,http://secure-auth.org/86dyokfd44,33,1,0
+url,http://paypal.info/hakz6piifqpc,31,0,1
+url,http://verify-login.com/gatbpcxij3,34,1,0
+url,http://paypal-auth.com/5aion2i,30,0,1
+url,http://secure.net/w2uzzejz,26,1,0
+url,https://login-auth.net/3.jz11,29,1,1
+url,http://secure.info/1d-zjw.c_i.,30,1,0
+url,http://google-update.info/x3njd,31,1,1
+url,http://google-secure.net/ez4bb6s36r,35,1,1
+url,https://verify-update.org/r1yd2pyx6,35,1,0
+url,http://login-auth.org/kyhzs4o,29,1,1
+url,http://google.net/xwa7qj,24,0,0
+url,https://paypal-login.co/2r8.9s2~kev6.,37,1,1
+url,http://google.net/duxj724p_q9t88.,33,0,0
+url,http://paypal.org/ndjfhf0tvsz5n_,32,0,0
+url,http://amazon-update.co/c5miwrdwkud,35,1,0
+url,https://google-auth.co/rkh9.o,29,0,1
+url,http://verify-login.com/mgiczo~6bl,34,1,1
+url,https://amazon-auth.com/zki8mi7x1sv,35,0,1
+url,http://google-auth.com/39_9-i_~gq6kf,36,0,1
+url,https://amazon.co/10yqo8_8,26,0,1
+url,http://secure.net/nfnak16y,26,1,1
+url,https://verify-update.net/10cav,31,1,0
+url,https://amazon.org/g_xp2z,25,0,0
+url,https://login.info/vnvd9na6h4g,30,1,0
+url,http://google.co/tg98v8c_t,26,0,1
+url,https://secure-update.com/ot~d2op,33,1,0
+url,http://apple-secure.net/auamx70kmf4060-,39,1,1
+url,http://secure.info/bly5jl~9rzr,30,1,1
+url,https://login.org/xh9qeu7wxz,28,1,1
+url,https://verify-secure.org/njrbl345yerb4t,40,1,1
+url,https://amazon-secure.co/3.7ys7yikrmn8~,39,1,0
+url,http://login-login.info/~6e~t_s,31,1,1
+url,https://bank.info/~cir5_3_lyc2q-r,33,0,1
+url,http://google.info/.yd8a-n~uxjo,31,0,0
+url,https://amazon.info/ze8~iu,26,0,1
+url,http://verify.org/.yf9kfef4v,28,1,1
+url,https://apple.co/8-ivkf11_iipb5z,32,0,0
+url,http://bank-secure.co/hcx-rw1ias9n,34,1,0
+url,https://bank-update.org/j.t1e21w,32,1,1
+url,http://verify-login.com/qkld-s0s-9-,35,1,1
+url,http://secure.co/cwqdgbsh,25,1,1
+url,http://login-auth.org/.oe4djz8o,31,1,0
+url,http://paypal-auth.co/~-k-5zlaky,32,0,0
+url,http://paypal-auth.info/weus12wzgqhs-n,38,0,0
+url,http://google.com/lmhwsz8,25,0,0
+url,http://login-update.com/w_fu7gohnu1,35,1,1
+url,https://bank.info/_ch3jnxnw,27,0,1
+url,https://amazon-auth.com/_verunmu2xo,35,0,1
+url,http://google-auth.org/sya1-yjfk94a,35,0,1
+url,http://secure-login.info/j45wa4wz,33,1,0
+url,http://login.net/bikdmqw5znejf~1,32,1,1
+url,https://bank-auth.net/vv8wvjdwg,31,0,0
+url,http://login.co/dlhmuv-cq3,26,1,1
+url,https://paypal-secure.net/7j.c7v0z85u7,38,1,1
+url,https://apple.info/tru8u-xawy3ugk_,34,0,0
+url,https://apple-secure.org/jeja7kqc6,34,1,1
+url,https://paypal.org/qwp5dufxdr72i6w,34,0,0
+url,http://verify-auth.com/1jvdg658,31,1,1
+url,http://secure.info/4qb6q5cwdr,29,1,0
+url,https://google-update.co/tdwm452~,33,1,0
+url,https://paypal-update.org/-99hjie,33,1,1
+url,https://verify-auth.net/ulde16,30,1,0
+url,https://secure-secure.net/mai28i,32,1,1
+url,http://login-auth.info/d344x-41,31,1,1
+url,https://amazon-update.info/w99e_pp,34,1,1
+url,https://apple-auth.com/-somwzxymc2,34,0,0
+url,http://login.info/eqd94py,25,1,1
+url,http://amazon.co/keh~l2,23,0,0
+url,http://google.info/g1tm9qvkr2x,30,0,1
+url,https://secure-update.co/gta1d1,31,1,0
+url,http://verify-update.co/dledtaal,32,1,0
+url,https://google.co/7mblvk,24,0,1
+url,https://paypal-secure.co/1d81lfla7b,35,1,0
+url,http://bank.org/nss_ecfgw,25,0,1
+url,http://google.com/8n2qmptwk0,28,0,0
+url,http://secure-login.net/r.c7v2,30,1,0
+url,https://bank.com/-rqzp02coo8_d1r,32,0,1
+url,http://login-auth.com/sq8o.g3aci,32,1,0
+url,http://login-login.org/cnt7-2b-1dre1,36,1,0
+url,https://login.net/31ejunglm1-_tf,32,1,1
+url,https://paypal-login.info/63mn0,31,1,1
+url,https://google.info/u-k1nq-5ofsq~.s,35,0,1
+url,http://bank-auth.com/f-8a22,27,0,0
+url,https://bank.com/z3-cvgytjb-1oa,31,0,0
+url,https://paypal-auth.com/o79kmfqlhs_,35,0,0
+url,https://secure.net/1x74nrp60t6u,31,1,0
+url,http://apple.info/4kn-.50,25,0,0
+url,https://login.co/ttk34v2ab2,27,1,0
+url,https://amazon-login.info/fhm11is9v0ae7q1,41,1,1
+url,http://amazon-login.net/nxeawf,30,1,1
+url,http://secure-login.org/cuag~bi6xws,35,1,1
+url,https://paypal-secure.co/dlxel,30,1,0
+url,https://apple.net/ym8c15vydc26c,31,0,0
+url,https://secure-auth.info/.bwea2iku1v,36,1,1
+url,http://google.info/u_2ocgosfy,29,0,1
+url,https://google.com/bqpz-mya7f799w,33,0,1
+url,http://paypal-update.com/znry4g4gf,34,1,0
+url,https://bank-login.co/67_ty8xg,30,1,1
+url,https://google-secure.org/~x8.k7wdg.,36,1,0
+url,http://apple-secure.com/luqahwp5f,33,1,0
+url,http://google.net/jhagxgx,25,0,1
+url,http://amazon.net/4b6pw,23,0,1
+url,https://amazon-login.com/0188tqw,32,1,0
+url,http://amazon-secure.info/pf0he70z.ogj-a4,41,1,0
+url,https://google.info/9zra840~64,30,0,0
+url,https://verify-update.co/m5qn86-12p8wb-,39,1,0
+url,https://verify-secure.com/ohc63n09hvvn5io,41,1,1
+url,https://apple.org/oofcek7aqyms69x,33,0,1
+url,http://paypal.info/3uwpc7zexnjj,31,0,0
+url,http://paypal.com/lcf1jy27p5gk4,31,0,0
+url,http://verify.org/v4qejjpdk212,30,1,1
+url,https://bank.org/kyzh-u,23,0,0
+url,https://login-auth.com/oos95o6i,31,1,1
+url,http://apple.info/v2w5p_n3wmtpj_l,33,0,1
+url,http://apple.co/imkm9c,22,0,0
+url,http://bank.info/fnkopzwrbzevkzr,32,0,1
+url,https://apple.net/misl0,23,0,0
+url,http://login-auth.co/_xzhduz82t,31,1,0
+url,https://secure.com/rtqkadf6,27,1,1
+url,http://paypal.net/s46wfjch,26,0,0
+url,http://bank.org/5jvj76,22,0,1
+url,https://paypal-update.org/2bdrazz0p80g4,39,1,0
+url,http://apple.info/eutqv47he6q,29,0,0
+url,https://apple.com/sqz0pfq7.144ya,32,0,1
+url,https://apple-update.org/cimak-dkao8j,37,1,0
+url,http://google.org/pr1hd48o.5k~4f,32,0,1
+url,https://amazon-secure.info/egbt.-_,34,1,0
+url,http://google-auth.net/es2rmgj4z,32,0,1
+url,https://bank.net/a~2t_~fti,26,0,1
+url,http://login-secure.info/6vhcgw638o8d3,38,1,0
+url,http://verify.org/x_44lu1~mr4c7y,32,1,0
+url,http://amazon.com/1rq6bm,24,0,0
+url,https://verify.com/x~zsjo8,26,1,0
+url,https://google-secure.net/a6y6r1,32,1,0
+url,https://amazon.com/0ut-r2hpjn6ep77,34,0,1
+url,https://secure-login.org/8aaufmno~_,35,1,1
+url,http://paypal-login.com/zgpozl69_,33,1,1
+url,https://amazon-auth.org/j.0e7ii87d-m5fw,39,0,1
+url,http://paypal-auth.net/qhdfw1,29,0,0
+url,http://google-update.co/iwc-.g,30,1,0
+url,https://amazon.net/32bj2,24,0,1
+url,http://google-update.info/gvfxt,31,1,0
+url,https://bank.info/8qo2hb9axu4.e,31,0,0
+url,http://bank-secure.co/4amks_tpasotiu~,37,1,0
+url,http://login-secure.com/_j_8unh,31,1,1
+url,http://google-auth.com/~6gpnpvlo1,33,0,0
+url,https://bank.org/v6kqnylky9ev.,30,0,0
+url,http://amazon-update.net/n9u6kzr7av1.0,38,1,0
+url,https://paypal.org/ay.1wjo90-hs38.,34,0,1
+url,http://paypal-update.com/q3-sld.dgu-9g1,39,1,1
+url,http://google-secure.org/xa~v4h,31,1,0
+url,https://login.org/2ni8-7wq,26,1,1
+url,https://paypal.info/bokphe,26,0,0
+url,https://google.co/cbd1gi3~83c1,30,0,0
+url,http://login-update.co/7xi.tvvob,32,1,0
+url,https://apple.info/x5mtfz3od7oe93,33,0,0
+url,http://secure.co/6suf4z.qdzf_d3d,32,1,0
+url,https://google.com/1kovdotup,28,0,0
+url,https://secure-auth.org/bf~ne,29,1,1
+url,https://bank-secure.net/kk6kadbl,32,1,0
+url,https://apple.info/3qjl7k,25,0,0
+url,http://google-login.com/yg~zvorm,32,1,1
+url,http://bank-secure.org/vhut~l,29,1,0
+url,https://google-auth.info/6y9pk5~izxu,36,0,1
+url,http://bank-login.info/j28xaoipeg,33,1,0
+url,https://amazon-auth.com/ipl-2kwj,32,0,1
+url,http://login-secure.co/h9aioq6.vr-vf3j,38,1,1
+url,https://amazon-secure.org/8r2ja7ivdhs_,38,1,0
+url,https://amazon.org/nbymhvmsh,28,0,1
+url,http://verify-auth.co/ttn4rm17tgg778h,37,1,0
+url,http://secure.info/vh.slylwv1sg5,32,1,0
+url,https://login-auth.org/dapxpf8b8pahg,36,1,1
+url,http://login.net/1l-23,22,1,0
+url,https://google-secure.com/gokhuk,32,1,0
+url,https://paypal.info/03yvddepiovpko,34,0,1
+url,https://login.co/q6ax52s-,25,1,0
+url,http://apple.net/bd729.31.ngy,29,0,0
+url,https://amazon-auth.com/vjyfn,29,0,1
+url,https://amazon.co/k7j-y,23,0,0
+url,http://login.info/c2.zo,23,1,0
+url,https://paypal-login.com/4neker5kt0ezskq,40,1,1
+url,http://verify.info/v~fu9kv0g8s,30,1,0
+url,http://paypal.co/6osbgbjer,26,0,0
+url,http://login.info/f2rxbapno6,28,1,0
+url,https://verify.org/xqx51a_8umcit_4,34,1,0
+url,https://paypal.com/kc~u5,24,0,1
+url,http://secure.com/ybrxt,23,1,1
+url,http://verify.net/lu8mu51,25,1,0
+url,http://amazon-login.org/rf0mi4qqxd0n8,37,1,1
+url,https://bank.net/bpr6k,22,0,0
+url,http://amazon-secure.net/wpmolgvcqh09s,38,1,0
+url,http://login-auth.net/-4rj4w,28,1,0
+url,https://paypal-login.org/n2skh,30,1,0
+url,https://paypal-secure.net/~qqylgf6ypr20,39,1,1
+url,http://apple.co/f1cl5qzg,24,0,0
+url,http://login.org/t.o-wc,23,1,1
+url,http://paypal-login.info/29qjrybr6jq3jn,39,1,0
+url,http://amazon-auth.com/ff.c40oq~rm~8,36,0,0
+url,https://apple-secure.co/ymefqk2r,32,1,0
+url,https://secure-secure.com/qoj05huch9coza,40,1,0
+url,http://paypal.info/et00843it5-,30,0,1
+url,https://login-update.net/96_e~-o05,34,1,0
+url,http://bank.org/mqbkogw2rm_6~,29,0,1
+url,https://apple.co/yxlm_iwqd1.nk,30,0,1
+url,https://verify.org/eyrch18_o0uy,31,1,1
+url,https://amazon-auth.net/f~a3d6rsuhy_c,37,0,0
+url,http://secure-login.co/zeyv_nx,30,1,1
+url,http://verify-auth.com/7kws_92,30,1,0
+url,https://apple-secure.org/.lod~,30,1,0
+url,http://google-login.org/.0jy-l,30,1,1
+url,https://paypal-login.net/4iolp.0z5p3ei~m,40,1,0
+url,http://apple.com/e9kzal1.g2jkut,31,0,1
+url,http://apple.org/nyrmk45e6,26,0,1
+url,http://verify.co/rfvn9_0dhl,27,1,1
+url,http://paypal.org/hadukf3-fju,31,0,0
+url,http://secure-login.co/lsq8wx.s1suy~4,37,1,0
+url,https://secure-auth.com/ib6wf1~o,32,1,0
+url,http://secure.info/czd3~ausz,28,1,1
+url,http://paypal-auth.net/1mi8v,28,0,0
+url,https://paypal-secure.co/h60xctgdu0_,36,1,1
+url,http://paypal-update.co/5jt0.6h1oyj0g12,39,1,0
+url,http://paypal.co/k~2rap2,24,0,0
+url,https://login-secure.org/~y9~5pfn,33,1,0
+url,http://amazon-update.net/.2ufm,30,1,0
+url,http://apple.info/a.ny65t,25,0,0
+url,https://google-login.net/._oi~noiofv,36,1,0
+url,https://google-secure.co/bv8nftnl9b,35,1,0
+url,http://google-login.net/p_98twq1g8,34,1,0
+url,http://verify.co/gxje.0lshkw5s,30,1,0
+url,http://verify.org/o4vplg,24,1,0
+url,http://amazon.org/bqa_ri1h,26,0,1
+url,http://secure-update.net/ln9_pd-_.,34,1,1
+url,http://verify-login.org/907roe7b0e,34,1,1
+url,https://bank.org/h~9t9.i7~e0cly5,32,0,1
+url,https://google.com/i4wmmi7m8a,29,0,1
+url,https://paypal.info/-c7nkyf2vojnl,33,0,1
+url,https://bank.co/2l4538q,23,0,1
+url,http://paypal.info/lduse4axr,28,0,1
+url,http://apple.info/ikfl9xnok0mti,31,0,1
+url,https://google.co/c7rdf3tjx.j.,30,0,0
+url,https://bank.com/0u.ryb6-0o0n0n,31,0,1
+url,http://apple.co/ht45wp.xx35lpw,30,0,0
+url,https://secure-secure.com/6873_nyogcv-l,39,1,0
+url,http://google-login.com/~f5745t,31,1,0
+url,http://amazon-auth.net/y8uk4,28,0,0
+url,http://amazon-login.com/2b.yusteoev,35,1,0
+url,http://google-secure.co/d~.wbe~fue25lo,38,1,1
+url,http://google.com/ypyn5,23,0,0
+url,http://paypal.net/xfwx-wnq30x-b,31,0,1
+url,https://amazon-auth.net/lwj2xgs,31,0,1
+url,https://amazon.co/8__y~d5a72h81v,32,0,1
+url,http://paypal-secure.co/j66_ha,30,1,1
+url,http://google-secure.com/4ltk~b60,33,1,1
+url,http://secure.org/ii7m~r7jor9rd4,32,1,0
+url,http://verify.info/m~jbji6fp33h,31,1,0
+url,http://amazon-update.net/3uqqdz3c4vsc,37,1,0
+url,https://google.net/7bfnumf.kv8v~,32,0,0
+url,http://amazon.org/cxib0lfpwqc2i,31,0,0
+url,http://bank.com/z132cbtuntmp,28,0,0
+url,http://apple-update.com/op5gps4_9sw15,37,1,1
+url,https://verify-login.com/ieeg71z4e3wma54,40,1,1
+url,http://verify.info/o70n94,25,1,0
+url,https://apple-auth.com/ot5eq885,31,0,1
+url,http://bank-secure.com/er7w9,28,1,0
+url,http://secure.net/.5pypq306gmp,30,1,1
+url,https://amazon-login.org/u9kp2m,31,1,1
+url,http://amazon.info/ouopcg8lui1,30,0,0
+url,https://google-auth.com/61v~wbnyf-b,35,0,1
+url,http://bank.org/17t4w47ragyo,28,0,1
+url,https://google-auth.info/8bk3h~ku4mt.57w,40,0,1
+url,http://secure-secure.info/y3-xjrtuhq_e,38,1,0
+url,http://amazon.info/i3o_9ro~r7gbunt,34,0,0
+url,http://amazon-secure.org/772es,30,1,1
+url,https://verify-secure.net/lvrts7_sae.q5,39,1,1
+url,https://apple-secure.com/qm-~tosqa7,35,1,1
+url,https://apple.info/mgtmbnk-,27,0,1
+url,http://google-update.info/k3zrg5yg3,35,1,0
+url,http://paypal-login.org/t0oih,29,1,0
+url,https://paypal-login.info/izdsjzdde,35,1,1
+url,https://apple-update.net/fokn4ll1,33,1,1
+url,https://amazon-update.com/b4lijaagj7p1,38,1,0
+url,https://paypal-secure.org/r-jgsia-8r7,37,1,0
+url,https://verify-secure.com/a60kmc,32,1,0
+url,https://bank-update.info/7g4qq-fzc9mk0vm,40,1,1
+url,https://bank.co/q.1cbps,23,0,0
+url,https://login-auth.info/xpyuj4dy,32,1,0
+url,https://google.org/j6fisp1l46,29,0,1
+url,https://secure-update.com/j6c3_q~ypj81,38,1,1
+url,http://verify.org/a4qxalg4,26,1,0
+url,http://apple-auth.org/.74.w2ngoa~,33,0,1
+url,http://verify-login.co/z34hk~z,30,1,1
+url,http://bank.com/9vlvrkrkq,25,0,0
+url,http://paypal.net/86iu-,23,0,0
+url,https://apple.co/nitdyjmmkg,27,0,1
+url,http://paypal-update.com/lxw7v6,31,1,0
+url,https://apple.org/8-3-cixj2,27,0,0
+url,http://apple.com/33-0f.ovbxug1m,31,0,0
+url,http://verify.net/0-jumug~fk33jm,32,1,1
+url,https://amazon-update.com/0od65iq,33,1,0
+url,http://verify.org/yk93b,23,1,1
+url,https://paypal.info/v72~a6.8wg,30,0,0
+url,https://login-update.org/ihlsu5s31mdd3s,39,1,0
+url,http://paypal-update.info/6mvrxx0bv6,36,1,1
+url,https://secure-auth.com/9~3kvl,30,1,0
+url,http://verify.org/qa9vyep3,26,1,0
+url,http://login-login.co/2uurg7~rpdh~k~,36,1,1
+url,http://apple-auth.co/do-xk,26,0,1
+url,https://google-update.com/yntg_5m,33,1,0
+url,https://bank-update.net/3xgo_c,30,1,1
+url,http://login-auth.info/m.-n7x.a9l1,34,1,0
+url,http://verify.info/tooyk,24,1,1
+url,http://amazon-secure.info/e6aodqywra,36,1,0
+url,http://google-secure.co/b_0~_o8tr,33,1,0
+url,https://google.info/k54w5mme1c,30,0,0
+url,http://paypal-secure.net/kkclg4dt-q_b,37,1,0
+url,http://paypal.net/.lt9h,23,0,0
+url,https://verify-update.info/i6wvn9kq8,36,1,1
+url,http://bank.com/.8iobeeuq,25,0,0
+url,http://login.co/~oui9yxb801,27,1,1
+url,https://paypal-auth.org/yck0zumsrx35,36,0,1
+url,https://bank-secure.org/_cs-5jg,31,1,1
+url,http://secure-login.co/4mx46rctwf1,34,1,0
+url,https://amazon.info/olgavt780o,30,0,0
+url,https://login-update.net/34r91o2m8l3h,37,1,0
+url,http://amazon-update.org/co1ectqwh9~0,37,1,0
+url,http://paypal-login.net/8bbcm9v~sr_.y,37,1,1
+url,https://secure-secure.com/7szsdpy8en11,38,1,1
+url,https://bank-update.com/i.vt55q.m,33,1,1
+url,http://apple-update.net/~_hc~qz1ec,34,1,1
+url,http://bank.info/wruzwf6eywmhk_-,32,0,1
+url,http://amazon.com/d1bfwzewm08dej,32,0,1
+url,https://amazon.co/mdwf9pjyed.,29,0,0
+url,http://login.co/uiunb,21,1,1
+url,https://secure-update.org/yp1.h8h_aqx~-2,40,1,1
+url,http://bank-secure.co/s0zlhy6ch46z-dq,37,1,0
+url,https://verify-login.org/1t--gi,31,1,1
+url,http://apple.net/dafyeg5-c52m.,30,0,1
+url,http://login-auth.org/_z.fj_4s1l,32,1,0
+url,https://apple.net/n..02vcarhh,29,0,0
+url,http://secure-login.info/h.sp17g5~s_tnk,39,1,1
+url,https://bank-auth.org/ztyg1ov80gt007i,37,0,0
+url,http://bank.co/s9et778uk7jp,27,0,0
+url,http://secure.net/epqv24e770v,29,1,0
+url,http://secure-secure.co/8y6hr-0pj3,34,1,0
+url,http://google-secure.info/al5i1z0hq,35,1,0
+url,https://secure.info/5ns7_,25,1,1
+url,https://paypal-update.com/vyo.d,31,1,0
+url,https://verify-secure.info/6o6fr.a_keao,39,1,0
+url,http://bank-update.info/lyn6sr,30,1,1
+url,https://secure-secure.com/_5ocsfz,33,1,1
+url,https://google.com/u92516-6lhf,30,0,0
+url,http://apple-auth.com/-7y3zj,28,0,1
+url,https://bank-update.com/g0w761,30,1,0
+url,http://secure-login.info/8gd.vusbejsa3u~,40,1,1
+url,http://apple.com/kml__--~16t1np,31,0,1
+url,https://amazon.info/d96.xx~0~8,30,0,1
+url,https://amazon.org/7vv1mg3p4.,29,0,1
+url,http://apple.com/4koro3pv,25,0,0
+url,http://login-login.org/.6-eytt_hz,33,1,1
+url,http://amazon.com/s6c52yuns2u,29,0,1
+url,https://secure.co/9bf2oo72.,27,1,1
+url,https://amazon.org/xisfpp0,26,0,1
+url,http://google-secure.org/0t7ci0,31,1,1
+url,https://login.net/ut87yjuh-oly,30,1,1
+url,http://secure-secure.info/b5.p9,31,1,0
+url,http://secure-update.info/c.93kpkof,35,1,1
+url,https://secure-secure.net/fk0uhkz_i1,36,1,1
+url,http://bank-secure.net/g40gcr1.,31,1,0
+url,https://amazon.com/h12kbhksopgu~m,33,0,1
+url,http://verify-update.info/065bb0l6x,35,1,1
+url,https://verify-update.org/r2grga1,33,1,1
+url,http://login-login.com/cmg8u9pr,31,1,1
+url,https://apple-secure.com/ovka5vc55,34,1,0
+url,https://secure.info/dk._3,25,1,0
+url,http://amazon.net/2oaow4psawl5-c7,33,0,1
+url,https://google.co/rlicp~.b3,27,0,1
+url,http://apple.info/-vjk_km,25,0,0
+url,https://login.org/nj.isa,24,1,0
+url,http://login-login.org/ci5_-2ysrq2u_,36,1,0
+url,https://amazon.info/.o27le,26,0,1
+url,https://google-auth.net/wjip._a,31,0,1
+url,https://amazon.org/1k9z4ybci.7k,31,0,0
+url,http://secure.co/9py8cv5~6m,27,1,0
+url,https://secure-login.org/_f-bnxk-kmb7c2h,40,1,1
+url,http://verify-login.info/j~1ecxe-se,35,1,0
+url,http://apple.org/pf0il,22,0,0
+url,https://secure-auth.info/vrdgloq,32,1,1
+url,http://secure-secure.net/dcf09d5rvrx2,37,1,1
+url,http://apple-secure.co/w6cccptvw,32,1,1
+url,http://bank.info/wceol0,23,0,1
+url,http://bank.net/zmhha8,22,0,1
+url,https://apple-update.net/bqqb0lc67,34,1,0
+url,http://verify-login.co/rt7a3o,29,1,0
+url,http://secure.org/sh_ql0u6ba,28,1,0
+url,http://bank-auth.com/5b~k6e52207c,33,0,0
+url,http://secure-update.co/4kzfnzqi2,33,1,0
+url,https://secure.org/mr.qq,24,1,1
+url,http://login.net/j.523-,23,1,1
+url,http://secure-auth.co/0f~stiz0-wrr-,35,1,1
+url,http://verify-auth.net/hg7hivay8c0c44,37,1,0
+url,https://amazon.org/0g5-tnzy98i~m7,33,0,0
+url,https://paypal.org/xnzz-94xb2,29,0,0
+url,https://login.co/l~afht,23,1,1
+url,https://login.org/ipd.33h,25,1,0
+url,http://login.com/tcomi-viftp,28,1,1
+url,http://login.org/b_3~0_61qi.jv,30,1,1
+url,https://paypal.info/2w2wsnsclalv,32,0,0
+url,http://verify-login.co/7radeaoz,31,1,0
+url,http://secure-auth.org/5-nt_-z1,31,1,1
+url,https://google-login.co/615atxhz,32,1,1
+url,https://secure.co/hzrrzlki,26,1,1
+url,http://paypal.info/8-nkr3,25,0,0
+url,http://apple.com/hc~0p9k,24,0,0
+url,https://secure.info/dfq563xa39yc3i_,35,1,0
+url,https://bank.com/z~bf_mqi.vd,28,0,1
+url,http://bank.org/vdb43lgr,24,0,1
+url,https://apple-login.net/dh~.pqhfcdno.,37,1,1
+url,http://verify-secure.info/ooa8katadla,37,1,0
+url,http://bank.org/r_3_sub8uamq,28,0,1
+url,http://login-secure.net/2~uk_tibh,33,1,1
+url,http://secure-auth.co/2ebb3-1aamf,33,1,1
+url,https://secure-secure.info/xu_vr,32,1,0
+url,http://google-auth.com/~xmv-w4ysrdge,36,0,1
+url,http://bank.co/9e4pic,21,0,1
+url,https://apple.info/.eu3f,24,0,0
+url,http://paypal-update.net/9t8x3ds32,34,1,1
+url,http://amazon-secure.info/cv7n1iosk,35,1,0
+url,https://secure.com/01eqlth7q,28,1,0
+url,http://bank.info/h0q1q,22,0,0
+url,http://login-secure.net/u~3.9~z,31,1,0
+url,http://bank-update.com/fu_8syzv6b5,34,1,1
+url,https://bank.org/qkosk6su,25,0,1
+url,https://apple-auth.org/vki.a5cjj,32,0,1
+url,https://bank-login.org/1ewhl,28,1,0
+url,http://login.info/h.s2n_il,26,1,0
+url,https://login-secure.info/c90344cz2eb7,38,1,1
+url,http://bank-update.net/5k3be3,29,1,0
+url,http://google.org/1oeokr1rfto.1,31,0,1
+url,https://bank-login.info/ngl._tz44u33wmd,39,1,0
+url,https://bank-login.com/9~qk3_az,31,1,1
+url,https://paypal.org/2-qgqvvlw.,29,0,1
+url,https://paypal.info/c~34~os0n9t,31,0,1
+url,https://login.com/azpmmbss.z4,29,1,0
+url,https://verify-secure.net/pm4ubj6n,34,1,1
+url,https://secure.co/hjq012qcn,27,1,0
+url,https://apple.com/wsq7~5o_ayo,29,0,0
+url,http://google.net/6os.xkcfanm,29,0,0
+url,https://apple-auth.org/0l1i9.8y-gee.i,37,0,1
+url,http://apple.org/6jb_8cfb0,26,0,0
+url,https://paypal-login.co/fzdct3,30,1,0
+url,https://secure.com/ytxfxzka,27,1,1
+url,http://apple-login.net/8tb_4xewe-xamj,37,1,0
+url,http://bank.info/w.wvkxn7,25,0,0
+url,https://google-login.com/7a38u.xc4l3p75h,40,1,0
+url,https://secure-update.co/s9vbt,30,1,0
+url,https://google.co/sta1u3hz3,27,0,0
+url,https://amazon.org/vuy.fqyrrc3,30,0,0
+url,https://apple-login.org/wvl_f.tfa_,34,1,0
+url,http://verify.co/r-q~.,22,1,0
+url,http://amazon-login.net/-jlrjck4czlkk,37,1,0
+url,http://secure.info/h3k87xjplwl,30,1,0
+url,http://verify.com/0a7.5~lult_p3,31,1,0
+url,http://google-secure.info/c37p~9lu6ayo,38,1,0
+url,http://bank-update.net/d9xp.mfvhxt4,35,1,1
+url,https://verify-login.info/3vsckzbcfgzt,38,1,0
+url,https://secure.co/9w.2ovd5ahl8i6,32,1,1
+url,http://verify-login.org/q63-x7u6iw_s0,37,1,1
+url,https://secure.info/l6tln3y7at~1hd,34,1,1
+url,https://secure.co/1w4_0iw8r4,28,1,1
+url,http://paypal.com/18rdgbkl,26,0,0
+url,https://amazon.org/mcq86,24,0,0
+url,http://secure.org/d9_wbe~~_,27,1,1
+url,http://google.org/bj-7_8v8f,27,0,0
+url,http://verify-update.co/cvf_r,29,1,1
+url,http://verify.co/06l3go08f,26,1,0
+url,https://bank-secure.org/2a3wodq,31,1,1
+url,https://login-secure.com/72~~a79jp,34,1,1
+url,http://secure.info/fo.4b,24,1,0
+url,http://apple.net/25y1-p.ud,26,0,1
+url,https://google.net/_drqp.1fx1,29,0,1
+url,https://secure.com/d00altpnjd,29,1,0
+url,http://google.info/a0w2gy,25,0,0
+url,http://verify-secure.net/z_mulkbn2,34,1,1
+url,http://paypal-update.co/i2~nrgimid,34,1,1
+url,https://verify.info/3seglpb~l8-b_s,34,1,1
+url,http://apple-secure.info/ap8~4,30,1,1
+url,https://apple-auth.co/uhm9o,27,0,1
+url,https://google.com/5fwlucd,26,0,0
+url,https://amazon-secure.org/bv3_t,31,1,0
+url,http://secure-auth.com/suoh2r2mn2w,34,1,0
+url,https://verify.info/z~6h8yo2cm,30,1,0
+url,https://verify-secure.co/.31b~,30,1,1
+url,http://login-secure.net/zn4d8-a.lqm2o,37,1,1
+url,http://bank.net/ixvv-i,22,0,1
+url,http://secure.info/st~~~7.,26,1,0
+url,https://verify.com/8rnm4hiz-1aoo6,33,1,0
+url,http://paypal.org/enqgj1,24,0,0
+url,https://login.co/-rticbuy0,26,1,1
+url,https://login-secure.info/zistl2jxi1zy~t7,41,1,0
+url,https://paypal.co/8ufiznfnf,27,0,1
+url,https://bank.co/mosjpuryq3ry0bh,31,0,1
+url,http://verify-auth.co/_-pwl06_7z,32,1,0
+url,https://amazon.co/9atceccn,26,0,1
+url,http://login.info/puj.u,23,1,1
+url,http://verify-update.info/k7_1r,31,1,1
+url,https://google.org/a_d_t,24,0,0
+url,https://secure-secure.net/h6n7srn3a5bl,38,1,0
+url,http://amazon-auth.com/zxra8z6ta0h3sd5,38,0,1
+url,http://google-auth.info/12u1igfe4yt.8a,38,0,0
+url,https://google.com/2l63attuca3,30,0,0
+url,https://login.org/wh8jb_f8i.18d,31,1,1
+url,http://verify-update.info/lyvnu,31,1,0
+url,http://google-auth.org/m12~g3,29,0,0
+url,http://apple.co/4hkol.prbzr,27,0,1
+url,http://paypal.net/hms073k0,26,0,0
+url,http://bank.net/l8gn7_,22,0,0
+url,http://login.com/.i0d6,22,1,1
+url,http://apple.net/1hapr~gu,25,0,1
+url,http://login-update.com/w1g2_zv8cn,34,1,1
+url,https://paypal-secure.org/a35uik4,33,1,1
+url,http://google.net/wbu_y~acbv,30,0,0
+url,https://paypal.info/kas45j2f03i16,33,0,1
+url,https://google.info/n7e7yx1qr,29,0,0
+url,http://paypal.org/5n83md0,25,0,1
+url,http://amazon.co/omzlx24wu28j,29,0,0
+url,https://amazon.info/-594e.3z53ju,32,0,0
+url,http://amazon.net/q-h7cyb,25,0,1
+url,https://google.org/bwi2i,24,0,1
+url,http://google-secure.com/2f2ya9tslq-v1~,39,1,0
+url,http://apple-update.net/vt.nobc6h.-,35,1,0
+url,http://apple-secure.org/_7vya-yoe9q,35,1,0
+url,https://verify.info/t_j905a,27,1,1
+url,https://login-update.net/ts-~.sx_m,34,1,0
+url,http://google-login.org/l4zh33g0io4t,36,1,0
+url,https://verify.co/jfojj087tnb,29,1,1
+url,https://google.org/i71u0iio,27,0,1
+url,https://verify-auth.co/uf56dt,29,1,0
+url,https://bank.org/m~y-n2,23,0,1
+url,https://login.net/gwlarkr,25,1,1
+url,http://paypal-update.net/yhgq1_,31,1,0
+url,https://apple-login.net/4bsj2amjk,33,1,0
+url,http://login.info/slkrgbvvv-,28,1,1
+url,http://secure-login.net/5uf.et,30,1,1
+url,https://amazon-update.info/uv-t38pxvq8o,39,1,0
+url,https://verify-update.com/djkvv_uj2e,36,1,1
+url,http://google-update.org/em5oc1,31,1,0
+url,https://amazon-login.com/jqa~2u,31,1,1
+url,https://login-login.info/cmffkyimy49d,37,1,0
+url,https://secure.org/n0uo-pvg,27,1,1
+url,https://secure-secure.net/_y6.8cd5317z,38,1,0
+url,https://amazon-secure.co/i-dvv5q33zpqn-,39,1,0
+url,http://login-auth.net/js-5zr,28,1,0
+url,http://amazon.info/~1pg40kzwoqtv65,34,0,0
+url,http://login.co/b_tdb9r5x,25,1,0
+url,http://verify.co/lbf_do_r7yv-bc,31,1,0
+url,http://google-update.info/cx1wgfil,34,1,0
+url,https://secure-auth.net/hei2~1j~h,33,1,0
+url,https://secure.info/97u.0i,26,1,0
+url,http://secure.org/6pnyr,23,1,1
+url,https://bank.co/~ndnzi,22,0,1
+url,http://paypal-secure.net/xyj-sa3~anc6n,38,1,0
+url,http://bank-secure.info/p_1--yy2ne8,35,1,1
+url,https://paypal.org/43w5uu.wo~7wng,33,0,1
+url,http://login.com/cs62o1,23,1,0
+url,http://paypal-secure.org/s0s9cvy52_pgq,38,1,1
+url,http://secure-login.co/wqhz6znqbdh29.,37,1,0
+url,http://paypal-login.co/_l4sg7.krxff,35,1,0
+url,http://paypal.co/bd_z5be7-4wg,29,0,0
+url,https://paypal-login.info/3fu.v6bxws8h,38,1,0
+url,https://secure-auth.com/3ww627t70vou.d6,39,1,1
+url,https://login.org/u30rac~q,26,1,1
+url,http://apple.com/ao0u4fn,24,0,1
+url,https://login-auth.info/hp1dnhm~nk,34,1,0
+url,http://amazon.org/bry~34u.sxd,29,0,0
+url,https://login-secure.co/8cxbz,29,1,1
+url,https://amazon.co/0jeo_j1cc,27,0,1
+url,http://paypal-update.net/5p9f~1n,32,1,0
+url,https://secure-secure.com/frxtv0d6bkvg,38,1,1
+url,https://google.org/kjw5tu,25,0,1
+url,http://verify-secure.com/fm8f8v3,32,1,1
+url,https://google.com/jtzw-_8x58bwvx.,34,0,0
+url,http://verify-secure.org/6-zbr8,31,1,1
+url,http://paypal-update.info/pi2x2.qwh476,38,1,1
+url,http://secure.net/1yfzsc7-1_4,29,1,0
+url,https://amazon.net/ifw1.e_1lc.u,31,0,1
+url,http://amazon.org/btqpbbgd-hvdzp,32,0,1
+url,http://bank.info/mu2kpz,23,0,0
+url,https://secure-login.net/h63.wpjs,33,1,1
+url,https://apple-login.org/.n89_c,30,1,0
+url,http://amazon.org/d349sj5,25,0,0
+url,https://verify.net/wmnl1h,25,1,1
+url,http://paypal-login.com/gcim~1j,31,1,1
+url,https://secure-auth.net/-vueeeie57cr,36,1,1
+url,https://secure.co/025xprk,25,1,1
+url,https://login.info/.wkpxj.f,27,1,1
+url,https://login.co/mlzey9~xq6-5j,30,1,1
+url,http://apple-secure.net/96ueb3bfi-,34,1,0
+url,https://google-update.com/yu0nfk~,33,1,1
+url,http://apple-update.org/v90ipd3zu975,36,1,1
+url,http://apple-secure.org/4jbl7mtsg24yf,37,1,1
+url,http://paypal.org/lj1m96id1h_,29,0,0
+url,https://bank.co/s~r_t~c~i4,26,0,1
+url,http://paypal-login.co/d7hws7u,30,1,1
+url,https://amazon-update.net/qr43s5zy02t599,40,1,0
+url,http://apple.info/gm-hxtv,25,0,0
+url,https://login.info/jcjuu~0zw8ybmh,33,1,0
+url,https://paypal-update.com/-q3txajwyzrg7c,40,1,1
+url,http://verify-login.net/jsv__vvpdaryhs,38,1,0
+url,https://bank.co/koq2mc,22,0,1
+url,http://secure.com/cby2b~flp.fgre,32,1,1
+url,https://amazon-login.net/x_qwml1,32,1,1
+url,https://login.org/kfeg4dy,25,1,1
+url,https://apple.com/15m0xpbm,26,0,0
+url,https://secure.org/gsxo222r0rnfaw,33,1,0
+url,http://bank-update.net/8x.729aqfwkcf,36,1,0
+url,http://amazon.net/~y.rwth5k.v-n4d,33,0,1
+url,http://apple-login.info/g1gid7y43e,34,1,1
+url,https://paypal-update.co/wc4kv,30,1,0
+url,https://apple.org/evpiuiz4,26,0,0
+url,http://bank.co/psq7b_6,22,0,0
+url,https://verify-update.net/7-8_g.0o,34,1,1
+url,https://secure.co/da9l2py7,26,1,1
+url,https://login-update.info/r7q6tiv8,34,1,0
+url,http://google-secure.co/upqzl.~,31,1,1
+url,http://amazon-login.com/tdq1sfwn0dh,35,1,0
+url,https://bank.net/bd.t0m.,24,0,0
+url,http://verify-secure.com/13peq-s,32,1,0
+url,http://verify.net/mjdiv-s,25,1,1
+url,http://amazon.net/wn0kqm_v0i4.,30,0,1
+url,https://amazon-auth.info/d~r_qar7,33,0,1
+url,https://login-auth.net/tjowm7w848,33,1,1
+url,https://secure.net/_y-o7~ons5pii,32,1,0
+url,http://login-login.co/ez-9.,27,1,1
+url,http://paypal-update.co/96fl329ev62,35,1,0
+url,http://bank.co/956g491,22,0,1
+url,http://verify.info/nyp6-5ewzs20iyy,34,1,1
+url,http://secure.com/1rra_ue0p0fnni.,33,1,1
+url,http://secure-update.com/wq67swot.,34,1,1
+url,https://apple-auth.net/1w~5l6492oakae,37,0,0
+url,https://google-secure.com/76gg9~fk1w,36,1,1
+url,http://apple-secure.net/lf2mtu3.ob8-,36,1,0
+url,https://verify.com/eyhfw3_i984r,31,1,1
+url,http://apple.co/14fot6m_nfjz5,29,0,0
+url,http://verify.co/ci1-3wwz,25,1,1
+url,https://amazon-auth.net/dcj2gl877hb,35,0,1
+url,http://login.org/mx9k4,22,1,0
+url,http://verify-update.info/m-eto,31,1,0
+url,https://login-secure.info/dwqj6cjnan4.,38,1,1
+url,http://verify-secure.info/7a~3vm0cgng7,38,1,0
+url,http://google-auth.co/uks.9wk4btj69sv,37,0,0
+url,https://bank-login.co/a_~c-s,28,1,0
+url,https://amazon.net/.p3.77fp9abgq,32,0,1
+url,https://secure.com/fdll6xczcy5,30,1,1
+url,https://login.co/q8g-p3qyq.w16p,31,1,1
+url,https://login.org/ht.ilvj209,28,1,0
+url,http://bank-update.info/fajdjwr,31,1,1
+url,http://google.com/0e30oz5b_12,29,0,0
+url,https://google.co/h17qr,23,0,1
+url,http://google.org/q_c4a,23,0,1
+url,http://amazon-login.info/st-m3-db3v,39,1,0
+url,https://amazon-login.org/aox1jbz8,33,1,0
+url,http://google.net/jxvgjkxxre~v~,31,0,1
+url,http://amazon.info/kns~.0a49hze0,32,0,0
+url,https://google.net/ziy1rxp,26,0,1
+url,https://amazon.co/17uifz7,25,0,1
+url,https://paypal.co/pj.~nkldjzn,29,0,1
+url,http://bank.net/52rq0,21,0,0
+url,http://secure.info/-4pydttnohsi9,32,1,0
+url,http://secure-update.co/82i0gg~c,32,1,0
+url,http://amazon.co/6jvb~sssd_zh,29,0,0
+url,https://bank-secure.info/sxdt-wkce0zwwr,39,1,1
+url,http://google-update.com/wm._wji-1d.sky4,40,1,0
+url,http://login.info/qd3g73w8eefy7pb,33,1,0
+url,http://google.info/-h.n3mfuvuij,31,0,1
+url,http://paypal-auth.info/pu3-_qudn2jco,37,0,0
+url,https://paypal.com/vmzbi~.j-j_bt,32,0,1
+url,https://google.net/lzw2tlac9zechb,33,0,0
+url,http://login-login.info/_8dtdqo,31,1,1
+url,http://amazon-login.co/040f~osl~-0woj,37,1,1
+url,http://bank-auth.info/du7~dc7x-,31,0,1
+url,http://amazon.info/lroda9._3,28,0,1
+url,https://login.co/c3x7kb4f9six,29,1,1
+url,https://verify-secure.info/fc6470ll,35,1,0
+url,https://bank-auth.net/~bj13hu83,31,0,0
+url,http://paypal.com/b3_6l5c.8qxj,30,0,0
+url,http://verify-secure.com/k2qt1z,31,1,1
+url,http://verify-update.com/f8l2b,30,1,1
+url,https://paypal.info/dp61sh_mt2tasc,34,0,0
+url,http://apple-login.net/rwzrequhd,32,1,1
+url,http://amazon-login.net/_d0y42xg9uojcmo,39,1,0
+url,https://secure.com/o~d~b,24,1,0
+url,https://amazon.info/aoxk_,25,0,1
+url,http://paypal-login.info/ks96lgalgl5g,37,1,1
+url,http://bank-login.info/52p0awidsenqw,36,1,0
+url,https://verify.com/--g0xyt6i2,29,1,0
+url,http://login-update.co/_71_b.vusgq,34,1,1
+url,https://bank.co/74cyb,21,0,1
+url,http://amazon-update.org/lkm4_dj30it5h,38,1,1
+url,https://bank.com/j.thlnz4jsztn,30,0,1
+url,https://paypal.net/xpz8idaej~,29,0,0
+url,https://login.info/7tw5fg1p8,28,1,0
+url,http://secure.com/gbj2n7_nl8_pyq,32,1,0
+url,http://secure-login.com/tb7i7ts,31,1,0
+url,https://amazon.info/s~hv_oyv2a,30,0,0
+url,http://google.org/k7idh5j1s45yt,31,0,1
+url,http://verify-login.net/vfv5j58sl,33,1,0
+url,https://bank.com/obb-roe8,25,0,1
+url,http://secure.com/a5y2tjnb0og3e-,32,1,1
+url,http://apple-update.net/.8-_i9nntnbkv3,38,1,1
+url,https://paypal-login.com/ovu0i05-~rqcen,39,1,1
+url,http://google.net/i.hr95r6vzujd,31,0,1
+url,http://apple-update.net/lep03ggym,33,1,1
+url,https://google.com/s3mpya8r6,28,0,0
+url,https://google.co/t-3w2cmtccyu,30,0,1
+url,https://login.info/-j8o26-b6ti,30,1,1
+url,http://apple-login.com/16y~wtywc.ysu,36,1,1
+url,https://google.org/.9y_u621-g4tlc,33,0,0
+url,https://google-login.com/6l3zdfilq,34,1,1
+url,http://login.info/fn7l308qgvqqc,31,1,1
+url,http://paypal.net/~-hd7p49yrv,29,0,0
+url,https://verify-login.org/8g.gli-6u,34,1,1
+url,https://verify.co/jei-3.bs67,28,1,0
+url,https://google.co/w2gn2lohn8z,29,0,1
+url,https://verify-login.info/rzbpi867,36,1,1
+url,http://amazon-login.com/2pyr9q~8iuef,36,1,1
+url,http://secure.org/ui~k5,23,1,1
+url,http://google.com/6du5g~zoafw5~o5,33,0,1
+url,http://login-login.com/imdli.n45a87km,37,1,0
+url,https://google-update.com/.ey9k35l,34,1,1
+url,http://amazon.net/qc37ehtklumz,30,0,0
+url,https://apple.net/-au5xgrzytp75w.,33,0,1
+url,http://apple.org/.myak3u5jei6a1,31,0,1
+url,https://apple-login.co/v78dmk9c7,32,1,0
+url,http://login-secure.com/qof01l2.2,33,1,0
+url,https://paypal-auth.net/ofmmtx,30,0,0
+url,https://paypal.co/gztfvvy88tlyq3,32,0,0
+url,https://google.com/h5u3pn-5i6jap_,33,0,1
+url,https://verify-login.com/-c~1k5,31,1,0
+url,https://apple-update.net/8cj6t1dvd5psn,38,1,1
